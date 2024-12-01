@@ -1,6 +1,6 @@
 function Home() {
     const headingStyle = {
-        color: 'blue',
+        color: '#FFD700',
         textAlign: 'center',
         fontSize: '3rem',
     };
