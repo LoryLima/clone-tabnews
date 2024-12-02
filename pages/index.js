@@ -1,5 +1,15 @@
 function Home() {
-  return <h1>Apenas um texto</h1>;
+  return (
+    <div>
+      <h1>Consistência</h1>
+      <p>
+        {" "}
+        eu quero ter uma sensação de segurança melhor quando o assunto é
+        programação, me sentir preparada e pronta para qualquer que seja o
+        desafio que virá pela frente.
+      </p>
+    </div>
+  );
 }
 
 function test() {
