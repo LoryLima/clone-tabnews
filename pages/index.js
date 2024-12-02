@@ -4,7 +4,7 @@ function Home() {
       <h1>Consistência</h1>
       <p>
         {" "}
-        eu quero ter uma sensação de segurança melhor quando o assunto é
+        Quero ter uma sensação de segurança melhor quando o assunto é
         programação, me sentir preparada e pronta para qualquer que seja o
         desafio que virá pela frente.
       </p>
