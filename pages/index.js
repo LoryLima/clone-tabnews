@@ -1,12 +1,11 @@
 function Home() {
   return (
     <div>
-      <h1>Consistência</h1>
+      <h1>Em construção...</h1>
       <p>
         {" "}
-        Quero ter uma sensação de segurança melhor quando o assunto é
-        programação, me sentir preparada e pronta para qualquer que seja o
-        desafio que virá pela frente.
+        Esse site está em construção. É um projeto para adquirir mais
+        conhecimentos na área de desenvolvimento.
       </p>
     </div>
   );
